@@ -22,6 +22,7 @@ Location: Canberra, Australia
 
 I am a researcher in Artificial Intelligence <img src="images/ai.gif" width="20"> from Egypt <img src="images/EG.gif" width="20">.
 
+- Currently i am a PhD student at UNSW Canberra
 - 👨🏻‍💻 Working as a Software Engineer and contributing to solving AI Problems.
 - 📝 Assistant Lecturer at Benha University, Faculty of Science, Department of Computer Science, Egypt <img src="images/EG.gif" width="20">.
 <!-- - 👨🏻‍🎓 PhD Student/Researcher in Computer Science at the University of New South Wales, Australia <img src="images/AU.gif" width="20">. -->
